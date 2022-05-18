@@ -1,0 +1,2 @@
+# sonosautomation
+Automation projects sonos
